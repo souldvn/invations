@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/invations/static/css/main.a927752f.css",
+    "main.js": "/invations/static/js/main.afe5f9b0.js",
+    "index.html": "/invations/index.html",
+    "main.a927752f.css.map": "/invations/static/css/main.a927752f.css.map",
+    "main.afe5f9b0.js.map": "/invations/static/js/main.afe5f9b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a927752f.css",
+    "static/js/main.afe5f9b0.js"
+  ]
+}
